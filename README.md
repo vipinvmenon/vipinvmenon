@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Vipin
 
-<!--
-**vipinvmenon/vipinvmenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technologies, Languages and Tools that I use
 
-Here are some ideas to get you started:
+- **Frontend:**  
+  ReactJS, NextJS, JavaScript, TypeScript, HTML5, CSS, SCSS, Bootstrap, TailwindCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Tooling:**  
+  Vite, Jest, Vitest, Jenkins
+
+- **Backend & Databases:**  
+  NodeJS
+
+- **Hosting:**  
+  Netlify, Vercel
+
+## 🌐 Connect with me:
+
+- GitHub: [vipinvmenon](https://github.com/vipinvmenon)
+- Twitter: [vipinmenon](https://twitter.com/_VipinMenon)
+- LinkedIn: [vipinmenon](https://linkedin.com/in/vipin-menon-v)
+
