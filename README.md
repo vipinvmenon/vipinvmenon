@@ -35,9 +35,3 @@
   <a href="https://twitter.com/_VipinMenon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-## 🌐 Connect with me:
-
-- GitHub: [vipinvmenon](https://github.com/vipinvmenon)
-- Twitter: [vipinmenon](https://twitter.com/_VipinMenon)
-- LinkedIn: [vipinmenon](https://linkedin.com/in/vipin-menon-v)
-
