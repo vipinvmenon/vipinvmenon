@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vipin
 
-## 💻 Technologies, Languages and Tools that I use
+## 💻 Technologies and Tools that I use
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
